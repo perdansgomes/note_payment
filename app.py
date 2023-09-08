@@ -1,5 +1,4 @@
 from flask import Flask, render_template
-import mysql.connector
 import random
 
 app = Flask(__name__)
